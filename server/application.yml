@@ -4,11 +4,11 @@ eureka:
       defaultZone: http://localhost:8010/eureka/
 
 ---
-spring: 
+spring:
   profiles: lab-4-subject
 words: I,You,He,She
 
 ---
-spring: 
+spring:
   profiles: lab-4-verb
 words: ran,knew,had,saw,bought
